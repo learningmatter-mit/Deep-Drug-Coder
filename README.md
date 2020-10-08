@@ -13,7 +13,7 @@ ___
 The code has been repurposed from https://github.com/pcko1/Deep-Drug-Coder/tree/nightly
 
 
-![Figure from manuscript](figures/opm_model.png)
+![Figure from manuscript](figures/opm_model.svg)
 
 ___
 
