@@ -10,8 +10,11 @@ Deep generative models can be trained on unlabeled chemical data to design novel
 
 ___
 
-The code has been repurposed from https://github.com/pcko1/Deep-Drug-Coder/tree/nightly
+The code has been repurposed from [Deep-Drug-Coder](https://github.com/pcko1/Deep-Drug-Coder/tree/nightly).
 
+The chemical structures and labels used for training and validation of the supervised and unsupervised models, with the exception of 684 proprietary molecules have been shared in the folder [datasets](https://github.com/learningmatter-mit/Deep-Drug-Coder/tree/nightly/datasets).
+
+The notebooks used for training of the OPM models have been prepended with OPM.
 
 ![Figure from manuscript](figures/opm_model.svg)
 
