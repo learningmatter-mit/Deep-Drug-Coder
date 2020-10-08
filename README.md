@@ -12,7 +12,7 @@ ___
 
 The code has been repurposed from [Deep-Drug-Coder](https://github.com/pcko1/Deep-Drug-Coder/tree/nightly).
 
-The chemical structures and labels used for training and validation of the supervised and unsupervised models, with the exception of 684 proprietary molecules have been shared in the folder [datasets](https://github.com/learningmatter-mit/Deep-Drug-Coder/tree/nightly/datasets).
+The chemical structures and labels used for training and validation of the supervised and unsupervised models, with the exception of 684 proprietary molecules have been shared in the folder [datasets](https://github.com/learningmatter-mit/Deep-Drug-Coder/tree/nightly/datasets/OPD_Data).
 
 The notebooks used for training of the OPM models have been prepended with OPM.
 
