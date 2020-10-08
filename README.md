@@ -16,7 +16,9 @@ The chemical structures and labels used for training and validation of the super
 
 The notebooks used for training of the OPM models have been prepended with OPM.
 
-![Figure from manuscript](figures/opm_model.svg)
+<p align="center">
+  <img src="figures/opm_model.svg">
+</p>
 
 ___
 
